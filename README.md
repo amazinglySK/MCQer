@@ -11,7 +11,7 @@ Install using the following command :
 
 ```
 ~$ git clone {the repo url}
-~$ cd mcqer
+~$ cd MCQer
 ~$ pip install ./dist/MCQer-0.1.0-py3-none-any.whl
 ```
 
